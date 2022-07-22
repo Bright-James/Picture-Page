@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(#6363c3, rgb(187, 232, 232));
+    min-height: 125vh;
+    overflow: hidden;
+    
+}
+
+canvas {
+    display: block;
+    margin: auto;
+   
+    
+
+}
+
+
+
+
+
+
